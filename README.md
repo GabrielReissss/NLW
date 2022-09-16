@@ -7,7 +7,7 @@
 Projeto constuido no evento Next Level Week da Rocketseat.
 
 
-![Clique aqui para acessar](https://gabrielreissss.github.io/NLW/)
+(https://gabrielreissss.github.io/NLW/)
 
 
 ## Tecnologias
